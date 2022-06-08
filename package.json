@@ -1,0 +1,33 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MingiJ/api.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco",
+    "cool",
+    "ascii",
+    "faces"
+  ],
+  "author": "Jeff Karanja <jeffawesome.ja@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MingiJ/api/issues"
+  },
+  "homepage": "https://github.com/MingiJ/api#readme",
+  "dependencies": {
+    "ascii-faces": "^1.1.0",
+    "cool": "^0.0.1",
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
